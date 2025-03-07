@@ -222,7 +222,7 @@
                     <div class="col-md-3 my-4">
                         <div class="card shadow p-3">
                             <img src="img/categories/4.png" class="img-fluid rounded" alt="Luvar" style="max-width: 100%;">
-                            <h5 class="mt-3">Luvar</h5>
+                            <h5 class="mt-3">Louver</h5>
                             <a href="#" class="btn btn-primary w-100"> See More Products</a>
                         </div>
                     </div>
