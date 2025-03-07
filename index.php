@@ -524,7 +524,7 @@
                     </div>
                     <div class="col-md-2">
                         <h3 class="counter" data-target="250">0+</h3>
-                        <p class="counter-label">Delar Network</p>
+                        <p class="counter-label">Dealer Network</p>
                     </div>
                     <div class="col-md-2">
                         <h3 class="counter" data-target="200">0+</h3>
@@ -536,7 +536,7 @@
                     </div>
                     <div class="col-md-2">
                         <h3 class="counter" data-target="3">0+</h3>
-                        <p class="counter-label">Wharehouse</p>
+                        <p class="counter-label">Warehouse</p>
                     </div>
                 </div>
             </div>
