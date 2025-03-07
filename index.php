@@ -10,8 +10,6 @@
     <?php include 'include/header.php' ?>
     <main class="overflow">
 
-
-
         <section class="slider overflow">
             <div class="container-fluid p-0">
                 <div class="row">
@@ -191,7 +189,6 @@
                 </div> -->
             </div>
         </section>
-
 
         <section class="category  bg-light py-5">
             <div class="container text-center">
@@ -392,7 +389,6 @@
             </div>
         </section>
 
-
         <!-- <section class="founders bg-light py-4">
             <div class="container text-center">
                 <h2>Meet Our Founders</h2>
@@ -542,11 +538,6 @@
             </div>
         </section>
 
-
-
-
-
-
     </main>
     <?php include 'include/footer.php' ?>
     <script>
@@ -596,9 +587,5 @@
         };
     </script>
 
-
-
-
 </body>
-
 </html>
