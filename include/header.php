@@ -50,7 +50,7 @@
             </div>
             <div class=" col-6 col-md-2 mmmmm ">
                 <button class="btn btn-dark mobile-nav mt-2 " type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight"><i class="fa-solid fa-xl fa-bars"></i></button>
-                <a type="button" class="btn btn-primary hide mt-4" data-bs-toggle="modal" data-bs-target="#exampleModal"> Enqury Now</a>
+                <a type="button" class="btn btn-primary hide mt-4" data-bs-toggle="modal" data-bs-target="#exampleModal"> Enquiry Now</a>
             </div>
         </div>
 

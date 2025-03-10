@@ -21,19 +21,19 @@
                                     <div class="carousel-caption d-none d-md-block text-light text-start">
                                         <!-- <h3 style="color:black">Talk To bigmanplay</h3>
                                     <p style="width:50%; color:black">Get personalized insights on love, career, and life from expert . Connect via chat, call, or video for accurate guidance based on your birth chart. Book your session today!</p> -->
-                                        <a type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal"> Enqury Now</a>
+                                        <a type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal"> Enquiry Now</a>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img src="img/slider/slider.png" class="d-block w-100" alt="...">
                                     <div class="carousel-caption d-none d-md-block text-light text-start">
-                                        <a type="button" class="btn btn-primary " data-bs-toggle="modal" data-bs-target="#exampleModal"> Enqury Now</a>
+                                        <a type="button" class="btn btn-primary " data-bs-toggle="modal" data-bs-target="#exampleModal"> Enquiry Now</a>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
                                     <img src="img/slider/slider1.png" class="d-block w-100" alt="...">
                                     <div class="carousel-caption d-none d-md-block text-light text-start">
-                                        <a type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal"> Enqury Now</a>
+                                        <a type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal"> Enquiry Now</a>
                                     </div>
                                 </div>
                             </div>
